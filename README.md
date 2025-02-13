@@ -1,1 +1,3 @@
 # CodeAlpha_Iris_Flower_Classification
+
+This project is about classifying iris flowers into three species: Setosa, Versicolor, and Virginica based on their physical measurements like petal and sepal length and width. Using the popular Iris Flower Dataset, the goal is to build a machine learning model that can predict the species of a flower from these measurements. We use Python and libraries like Scikit-learn for accessing the dataset and training the model, and Pandas and NumPy for data processing. The project walks through data preparation, training different machine learning algorithms, and evaluating the model's accuracy to make predictions on new data. This is a classic introductory project for understanding classification in machine learning.
